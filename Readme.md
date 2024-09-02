@@ -49,3 +49,5 @@ Vous trouverez dans le dossier `videos` de petites vidéos où je commente l'adr
 ## PS
   Certaines fois, l'envoie des données refusent en mode "Realtime" et il vous faut juste refaire le processus en supprimant le paquet.  
   Ou faites un ping à la place ;)
+
+  Un PC a été rajouté dans chacune des 2 entreprises pour les besions des petites videos explicatives , leur configuration y est aussi
