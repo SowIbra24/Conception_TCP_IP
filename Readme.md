@@ -47,7 +47,5 @@ Vous pouvez réutiliser, améliorer ou modifier ce projet comme vous le souhaite
 Vous trouverez dans le dossier `videos` de petites vidéos où je commente l'adressage IP sur les machines, la configuration du DNS et du DHCP, ainsi que l'accès au navigateur web d'un ordinateur, à son invite de commande, etc.
 
 ## PS
-  Certaines fois, l'envoie des données refusent en mode "Realtime" et il vous faut juste refaire le processus en supprimant le paquet.  
-  Ou faites un ping à la place ;)
 
   Un PC a été rajouté dans chacune des 2 entreprises pour les besions des petites videos explicatives , leur configuration y est aussi
