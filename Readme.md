@@ -1,5 +1,5 @@
 # Conception d'une architecture TCP/IP
-Ce projet s'appuie sur le cours "Concevez votre réseau TCP/IP" proposé par la plateforme OpenClassrooms. Il a été entièrement réalisé à l'aide de l'application Cisco Packet Tracer (je ne peux pas encore expérimenter avec GNS3 pour le moment 🙂). Le projet se compose de deux réseaux indépendants qui communiquent entre eux via un routeur.  
+Ce projet s'appuie sur le cours "Concevez votre réseau TCP/IP" proposé par la plateforme OpenClassrooms. Il a été entièrement réalisé à l'aide de l'application Cisco Packet Tracer (je ne peux pas encore expérimenter avec GNS3 ou du véritable matériel cisco pour le moment 🙂). Le projet se compose de deux réseaux indépendants qui communiquent entre eux via un routeur.  
 ## Le Réseau 1
 Il est encadré par un rectangle mauve et représente une petite entreprise (<span style="color: green">**Entreprise 1**</span>). Ce réseau est composé d'un PC fixe, d'un ordinateur portable, d'un serveur et d'un switch, tous connectés entre eux par des câbles Ethernet. Le PC et l'ordinateur portable sont configurés manuellement pour les adresses IP et les passerelles par défaut.
 ## Le Réseau 2
