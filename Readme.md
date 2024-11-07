@@ -49,3 +49,7 @@ Vous trouverez dans le dossier `videos` de petites vidéos où je commente l'adr
 ## PS
 
   Un PC a été rajouté dans chacune des 2 entreprises pour les besions des petites videos explicatives , leur configuration y est aussi
+
+# FILIUS 
+Vous trouverez un dossier nommé Filius dans le dossier src, il est avec son readme.  
+Il explique comment installer, découvrir et faire des simulations réseaux.  
