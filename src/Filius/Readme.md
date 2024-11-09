@@ -14,4 +14,7 @@ Vous trouverez un guide pour débutant à [cette page](https://hilisit.gitlabpag
 
 ## Exécution des fichiers
 Il vous faut télécharger le fichier et l'ouvrir avec l'éxécutable de filius.  
-Vous pouvez faire des topologies vous même ou visualiser ceux que vous téléchargerez du repo.
+Vous pouvez faire des topologies vous même ou visualiser ceux que vous téléchargerez du repo.  
+
+## Fichier TPF3
+Pour l'instant TPF3 a juste la topologie , il n'y a rien qui marche. La topologie logique et le routage sera ajouté ultérieurment. 
